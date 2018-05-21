@@ -1,5 +1,4 @@
-package banco.contaAbstrata.contas.ContaPoupanca;
-import banco.contas;
+package br.ufc.dc.poo.banco.contas;
 
 public class ContaPoupanca extends Conta {
 

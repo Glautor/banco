@@ -1,5 +1,4 @@
-package banco.contaAbstrata.contas;
-import banco.contaAbstrata;
+package br.ufc.dc.poo.banco.contas;
 
 public class Conta extends ContaAbstrata {
 	public Conta (String numero){

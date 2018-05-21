@@ -1,7 +1,5 @@
-package banco.contaAbstrata.contaImposto;
-import banco.contaAbstrata;
+package br.ufc.dc.poo.banco.contas;
  
-
 public class ContaImposto extends ContaAbstrata {
 	
 	private double saldo;
